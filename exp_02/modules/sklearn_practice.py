@@ -73,6 +73,9 @@ class TrainTestSklClassifier(SklearnModels):
     def test(self, metric="cr"):
         """
         모델 테스트
+        accuracy : acc
+        classification_report : cr
+        f1 score : f1
         """
         y_pred = self.model.predict(self.X_test)
 
