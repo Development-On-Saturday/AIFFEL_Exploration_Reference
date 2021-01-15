@@ -10,6 +10,8 @@ from sklearn.metrics import confusion_matrix
 from pandas import DataFrame
 import pandas as pd
 
+
+# 실험에 사용할 5개의 모델을 리스트에 담아 관리한다.
 def call_big5_model():
     decision_model = DecisionTreeClassifier()
     randomforest_model = RandomForestClassifier()
@@ -21,6 +23,7 @@ def call_big5_model():
     
     return model
 
+# 모델들을 for문으로 하나씩 받아와서 주어진 데이터에 대해 학습을 한다.
 def ml_model(data, model):
     x_train = data[0]
     x_test = data[1]
@@ -41,6 +44,7 @@ def ml_model(data, model):
     
     print(str(n) + "가지 model 학습완료")
     
+    # 모델의 accuracy를 dataframe으로 시각화 한다.
     accuracies = {'accuracy':scores}
     accuracies_frame = DataFrame(accuracies, columns = ['accuracy'],
                              index = ['decision','randomforest','svm','sgd','logistic'])
