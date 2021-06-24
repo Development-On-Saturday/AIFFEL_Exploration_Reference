@@ -1,1 +1,1 @@
-# EXPLORATION 15 - 흐린 사진을 선명하게
+# EXPLORATION 16 - 흐린 사진을 선명하게
