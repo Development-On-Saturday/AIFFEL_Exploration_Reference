@@ -1,1 +1,1 @@
-# EXPLORATION 11 - 뉴스 요약봇 만들기
+# EXPLORATION 11: 뉴스 요약봇 만들기

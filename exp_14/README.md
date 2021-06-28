@@ -1,1 +1,1 @@
-# EXPLORATION 14 - 폐렴아 기다려라!
+# EXPLORATION 14: 폐렴아 기다려라!

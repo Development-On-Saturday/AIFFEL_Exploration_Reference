@@ -1,1 +1,1 @@
-# EXPLORATION 07 - 나랑 닮은 연예인은 누구?
+# EXPLORATION 07: 나랑 닮은 연예인은 누구?

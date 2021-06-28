@@ -1,1 +1,1 @@
-# EXPLORATION 10 - 인물사진을 만들어 보자
+# EXPLORATION 10: 인물사진을 만들어 보자

@@ -1,1 +1,1 @@
-# EXPLORATION 19 - 인간보다 퀴즈를 잘푸는 인공지능
+# EXPLORATION 19: 인간보다 퀴즈를 잘푸는 인공지능

@@ -1,1 +1,1 @@
-# EXPLORATION 01 - 인공지능과 가위바위보 하기
+# EXPLORATION 01: 인공지능과 가위바위보 하기

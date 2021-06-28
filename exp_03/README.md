@@ -1,1 +1,1 @@
-# EXPLORATION 03 - 카메라 스티커앱 만들기 첫걸음
+# EXPLORATION 03: 카메라 스티커앱 만들기 첫걸음

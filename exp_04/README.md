@@ -1,1 +1,1 @@
-# EXPLORATION 04 - 영화리뷰 텍스트 감성분석하기
+# EXPLORATION 04: 영화리뷰 텍스트 감성분석하기

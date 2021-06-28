@@ -1,1 +1,1 @@
-# EXPLORATION 06 - 작사가 인공지능 만들기
+# EXPLORATION 06: 작사가 인공지능 만들기
